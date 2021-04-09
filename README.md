@@ -4,6 +4,9 @@ chmod 755 test.sh
 
 ./test.sh
 
+Disclaimer:
+Работает только с ascii.
+
 Tests:
 1) sharks.txt, tasc => 60
 2) tenet_review.txt, car => 751
